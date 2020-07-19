@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img align="right" height="270px" width="450px" alt="GIF" src='https://github-readme-stats.vercel.app/api?username=QuincySx&show_icons=true&hide=["title"]' />
 
 My name is QuincySx, an Android software engineer.
 
@@ -12,6 +11,7 @@ My name is QuincySx, an Android software engineer.
    * Email: 772804430@gmail.com
    * Telegram: [@QuincySx](https://t.me/QuincySx)
 
+<img align="right" height="270px" width="450px" alt="GIF" src='https://github-readme-stats.vercel.app/api?username=QuincySx&show_icons=true&hide=["title"]' />
 
 <!--
 **QuincySx/QuincySx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
