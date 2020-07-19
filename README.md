@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" height="270px" width="450px" alt="GIF" src='https://github-readme-stats.vercel.app/api?username=QuincySx&show_icons=true&hide=["title"]' />
+
 My name is QuincySx, an Android software engineer.
 
 - 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack)
