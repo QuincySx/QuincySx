@@ -9,8 +9,7 @@ My name is QuincySx, an Android software engineer.
 - 👯 I’m looking to collaborate on [ChainWallet](https://github.com/QuincySx/ChainWallet)
 - 📫 How to reach me: 
    * Blog: [开发 Android 的 SmallRaw](https://blog.smallraw.com/)
-   * Email: 772804430@gmail.com
-   * Telegram: [@QuincySx](https://t.me/QuincySx)
+   * Email: q772804430@gmail.com
 
 <!--
 **QuincySx/QuincySx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
