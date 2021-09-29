@@ -4,10 +4,10 @@
 
 My name is QuincySx, an Android software engineer.
 
-- 🌱 I'm currently learning [Jetpack](https://developer.android.com/jetpack)
-- 💬 Ask me about Android development
-- 👯 I’m looking to collaborate on [Android-Basic-Sample](https://github.com/QuincySx/Android-Basic-Sample)
-- 📫 How to reach me: 
+- 🌱  I'm currently learning [Jetpack](https://developer.android.com/jetpack)
+- 💬  Ask me about Android development
+- 👯  I’m looking to collaborate on [Android-Basic-Sample](https://github.com/QuincySx/Android-Basic-Sample)
+- 📫  How to reach me: 
    * Blog: [开发 Android 的 SmallRaw](https://blog.smallraw.com/)
    * Email: q772804430@gmail.com
 
