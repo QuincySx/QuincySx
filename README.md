@@ -8,7 +8,7 @@ My name is QuincySx, an Android software engineer.
 - 💬  &nbsp;  Ask me about Android development
 - 👯  &nbsp;  I’m looking to collaborate on [Android-Basic-Sample](https://github.com/QuincySx/Android-Basic-Sample)
 - 📫  &nbsp;  How to reach me: 
-   * Blog: [开发 Android 的 SmallRaw](https://blog.smallraw.com/)
+   * Blog: [光明顶的熊](https://blog.smallraw.com/)
    * Email: QuincySx@sina.com
 
 <!--
