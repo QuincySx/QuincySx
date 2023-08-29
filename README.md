@@ -9,7 +9,7 @@ My name is QuincySx, an Android software engineer.
 - 👯  &nbsp;  I’m looking to collaborate on [Android-Basic-Sample](https://github.com/QuincySx/Android-Basic-Sample)
 - 📫  &nbsp;  How to reach me: 
    * Blog: [光明顶的熊](https://blog.smallraw.com/)
-   * Email: QuincySxx@protonmail.com
+   * Email: QuincySxx@pm.me
 
 <!--
 **QuincySx/QuincySx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
